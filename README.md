@@ -35,7 +35,7 @@
     <a href="https://github.com/yunyunfanfan?tab=repositories"><img src="https://img.shields.io/badge/Projects-AI项目-blue?style=flat-square&logo=github" /></a>&emsp;
     <a href="https://github.com/yunyunfanfan?tab=stars"><img src="https://img.shields.io/badge/Stars-收藏-yellow?style=flat-square&logo=github" /></a>&emsp;
     <img src="https://img.shields.io/badge/2025-数学与AI-green?style=flat-square&logo=graduation-cap" />&emsp;
-    <a href="https://www.zhihu.com/people/yunyunfanfan"><img src="https://img.shields.io/badge/知乎-数值分析与优化-0084FF?style=flat-square&logo=zhihu&logoColor=white" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/yunyunfanfan"><img src="https://img.shields.io/badge/知乎-数学讨论班-0084FF?style=flat-square&logo=zhihu&logoColor=white" /></a>&emsp;
     <a href="mailto:yunyunfanfan@github.com"><img src="https://img.shields.io/badge/Contact-联系我-red?style=flat-square&logo=gmail" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=yunyunfanfan&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
@@ -195,31 +195,31 @@ Here are some ideas to get you started:
 | **ODE/PDE Solvers** | **Gradient Descent Variants** | **Parallel Computing** |
 | **Interpolation & Approximation** | **Constrained Optimization** | **High-Performance Computing** |
 
-### 📚 知乎专栏 & 研究分享
+### 📚 知乎专栏 
 
 <table>
 <tr>
 <td align="center">
-<b>🧠 大模型数学原理</b><br/>
-<a href="https://zhuanlan.zhihu.com/p/1921283479628415217">📖 消费级大模型Yi技术解密</a><br/>
-<small>深入解析零一万物Yi模型的数学基础</small>
+<b>🧠 我的求学之旅</b><br/>
+<a href="https://zhuanlan.zhihu.com/p/1921283479628415217">📖 持续性摆烂，间歇性沉淀</a><br/>
+
 </td>
 <td align="center">
-<b>🔍 优化算法研究</b><br/>
-<a href="https://www.zhihu.com/people/yunyunfanfan">📝 优化理论与实践</a><br/>
-<small>数值优化在AI中的应用探索</small>
+<b>🔍 微积分与高数</b><br/>
+<a href="https://www.zhihu.com/column/c_1844771489099960321">📝 高数讨论班讲义</a><br/>
+
 </td>
 </tr>
 <tr>
 <td align="center">
-<b>📊 数值分析实战</b><br/>
-<a href="https://www.zhihu.com/people/yunyunfanfan">🧮 科学计算方法</a><br/>
-<small>从理论到实现的完整流程</small>
+<b>📊 深入浅出数学系列</b><br/>
+<a href="https://www.zhihu.com/people/yunyunfanfan">🧮 那些年我们做过的好题</a><br/>
+
 </td>
 <td align="center">
-<b>🤖 AI数学基础</b><br/>
-<a href="https://www.zhihu.com/people/yunyunfanfan">🎓 深度学习数学</a><br/>
-<small>Transformer背后的数学原理</small>
+<b>🤖 我的游记</b><br/>
+<a href="https://www.zhihu.com/people/yunyunfanfan">🎓 读万卷书，行万里路</a><br/>
+
 </td>
 </tr>
 </table>
