@@ -12,8 +12,8 @@
 
 
 <!-- 个人简介-->
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌍+Hello+World!+I'm+yunyunfanfan;🌴+Class+of+2025+Graduate!;🎓+Lanzhou+University+Alumni;🤖+AI+%26+Machine+Learning+Enthusiast;🚀+Building+the+future+with+code+in+2025!;🎆+Ready+for+new+challenges!;&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24&pause=1000" /></div>
-<h3 align="center">🎆 2025 Graduate | 🤖 AI & ML Specialist | 💫 Innovation through Code</h3>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌍+Hello+World!+I'm+yunyunfanfan;🔢+Mathematics+%26+Numerical+Analysis+Enthusiast;🔬+NLP+%26+Computer+Vision+Researcher;📐+Optimization+%26+Scientific+Computing;🤖+AI+For+Science+Enthusiast;📝+Writing+about+LLMs+on+Zhihu;🚀+Building+intelligent+systems+in+2025!;&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24&pause=1000" /></div>
+<h3 align="center">🔢 Mathematics & Optimization | 🔬 NLP & CV | 🤖 AI For Science</h3>
 
 <br><br>
 <!-- GitHub Stats Display -->
@@ -34,7 +34,8 @@
     <a href="https://github.com/yunyunfanfan"><img src="https://img.shields.io/badge/GitHub-个人主页-181717?style=flat-square&logo=github" /></a>&emsp;
     <a href="https://github.com/yunyunfanfan?tab=repositories"><img src="https://img.shields.io/badge/Projects-AI项目-blue?style=flat-square&logo=github" /></a>&emsp;
     <a href="https://github.com/yunyunfanfan?tab=stars"><img src="https://img.shields.io/badge/Stars-收藏-yellow?style=flat-square&logo=github" /></a>&emsp;
-    <img src="https://img.shields.io/badge/2025-应届毕业生-green?style=flat-square&logo=graduation-cap" />&emsp;
+    <img src="https://img.shields.io/badge/2025-数学与AI-green?style=flat-square&logo=graduation-cap" />&emsp;
+    <a href="https://www.zhihu.com/people/yunyunfanfan"><img src="https://img.shields.io/badge/知乎-数值分析与优化-0084FF?style=flat-square&logo=zhihu&logoColor=white" /></a>&emsp;
     <a href="mailto:yunyunfanfan@github.com"><img src="https://img.shields.io/badge/Contact-联系我-red?style=flat-square&logo=gmail" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=yunyunfanfan&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
@@ -65,22 +66,24 @@ Here are some ideas to get you started:
 
 嗨，你好，我是 **Yunjian Zhang (yunyunfanfan)**！
 
-🎆 **2025年应届毕业生** - 兰州大学计算机科学与技术专业
+🎆 **2025年大一学生** - 兰州大学计算机科学与技术专业
+
+🔢 对 **数学、数值分析与优化理论** 充满热情，深入研究算法背后的数学原理。
 
 🤖 专注于 **人工智能与机器学习** 领域，热衷于通过技术创新改变世界。
 
 🚀 立志成为新一代AI开发者，构建更智能、更人性化的未来。
 
-**"Code is the language of the future, and AI is the poetry written in it."**
+**"Mathematics is the language of nature, and optimization is the key to intelligence."**
 
-- 🔭 I'm currently working on **Large Language Models & AI Applications**
-- 🌱 I'm currently learning **Transformer Architecture & Neural Networks**
-- 👯 I'm looking to collaborate on **AI/ML Open Source Projects**
-- 🤔 I'm looking for help with **MLOps and Model Deployment**
-- 💬 Ask me about **Python, PyTorch, TensorFlow, and AI Ethics**
+- 🔭 I'm currently working on **Large Language Models & Optimization Algorithms**
+- 🌱 I'm currently learning **Numerical Analysis, Convex Optimization & Deep Learning Theory**
+- 👯 I'm looking to collaborate on **AI/ML & Mathematical Computing Projects**
+- 🤔 I'm looking for help with **Advanced Optimization Methods & Scientific Computing**
+- 💬 Ask me about **Mathematics, Optimization, PyTorch, and AI Research**
 - 📫 How to reach me: **GitHub @yunyunfanfan**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **2025 Graduate ready to innovate! 🎆**
+- ⚡ Fun fact: **Math enthusiast who believes optimization is the soul of AI! 🔢🎆**
 
 </td>
 <td>
@@ -118,9 +121,17 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<!-- Mathematical & Scientific Computing -->
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolfram-mathematica&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
 <!-- AI & ML -->
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 ![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge&logoColor=white)
@@ -166,6 +177,58 @@ Here are some ideas to get you started:
 ### 📈 GitHub Overview
 
 <img src="https://github-readme-stats.vercel.app/api?username=yunyunfanfan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+
+</div>
+
+---
+
+## 🔢 Mathematical Research Interests & 知乎文章
+
+<div align="center">
+
+### 📐 Core Mathematical Areas
+
+| 🧮 Numerical Analysis | 🎯 Optimization Theory | 🔬 Scientific Computing |
+|:----------------------:|:----------------------:|:-----------------------:|
+| **Finite Difference Methods** | **Convex Optimization** | **Linear Algebra Algorithms** |
+| **Numerical Linear Algebra** | **Non-convex Optimization** | **Monte Carlo Methods** |
+| **ODE/PDE Solvers** | **Gradient Descent Variants** | **Parallel Computing** |
+| **Interpolation & Approximation** | **Constrained Optimization** | **High-Performance Computing** |
+
+### 📚 知乎专栏 & 研究分享
+
+<table>
+<tr>
+<td align="center">
+<b>🧠 大模型数学原理</b><br/>
+<a href="https://zhuanlan.zhihu.com/p/1921283479628415217">📖 消费级大模型Yi技术解密</a><br/>
+<small>深入解析零一万物Yi模型的数学基础</small>
+</td>
+<td align="center">
+<b>🔍 优化算法研究</b><br/>
+<a href="https://www.zhihu.com/people/yunyunfanfan">📝 优化理论与实践</a><br/>
+<small>数值优化在AI中的应用探索</small>
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>📊 数值分析实战</b><br/>
+<a href="https://www.zhihu.com/people/yunyunfanfan">🧮 科学计算方法</a><br/>
+<small>从理论到实现的完整流程</small>
+</td>
+<td align="center">
+<b>🤖 AI数学基础</b><br/>
+<a href="https://www.zhihu.com/people/yunyunfanfan">🎓 深度学习数学</a><br/>
+<small>Transformer背后的数学原理</small>
+</td>
+</tr>
+</table>
+
+### 🎯 Research Focus
+- 🔍 **Large Language Models Optimization** - Training efficiency and convergence analysis
+- 📐 **Numerical Methods for AI** - Advanced algorithms for model training
+- 🧮 **Scientific Computing** - High-performance mathematical software development
+- 📊 **Data Analysis & Visualization** - Mathematical insights from large datasets
 
 </div>
 
@@ -254,6 +317,10 @@ Here are some ideas to get you started:
 - ✅ **Industry Readiness** - Prepared for professional challenges
 
 </div>
+
+---
+
+
 
 ---
 
