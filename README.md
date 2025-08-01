@@ -31,11 +31,11 @@
 <div align="center">
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://github.com/yunyunfanfan"><img src="https://img.shields.io/badge/GitHub-个人主页-181717?style=flat-square&logo=github" /></a>&emsp;
-    <a href="https://github.com/yunyunfanfan?tab=repositories"><img src="https://img.shields.io/badge/Projects-AI项目-blue?style=flat-square&logo=github" /></a>&emsp;
-    <a href="https://github.com/yunyunfanfan?tab=stars"><img src="https://img.shields.io/badge/Stars-收藏-yellow?style=flat-square&logo=github" /></a>&emsp;
-    <img src="https://img.shields.io/badge/2025-数学与AI-green?style=flat-square&logo=graduation-cap" />&emsp;
-    <a href="https://www.zhihu.com/people/yunyunfanfan"><img src="https://img.shields.io/badge/知乎-数学讨论班-0084FF?style=flat-square&logo=zhihu&logoColor=white" /></a>&emsp;
+    <a href="https://github.com/yunyunfanfan"><img src="https://img.shields.io/badge/🤖-NPL&CV-181717?style=flat-square&logo=github" /></a>&emsp;
+    <a href="https://github.com/yunyunfanfan?tab=repositories"><img src="https://img.shields.io/badge/🧬-AI+Bio-blue?style=flat-square&logo=github" /></a>&emsp;
+    <a href="https://github.com/yunyunfanfan?tab=stars"><img src="https://img.shields.io/badge/🔬-多智能体系统-purple?style=flat-square&logo=github" /></a>&emsp;
+    <img src="https://img.shields.io/badge/🧠-大语言模型-green?style=flat-square&logo=graduation-cap" />&emsp;
+    <a href="https://www.zhihu.com/people/yunyunfanfan"><img src="https://img.shields.io/badge/💊-数学讨论班-0084FF?style=flat-square&logo=zhihu&logoColor=white" /></a>&emsp;
     <a href="mailto:yunyunfanfan@github.com"><img src="https://img.shields.io/badge/Contact-联系我-red?style=flat-square&logo=gmail" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=yunyunfanfan&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
@@ -72,18 +72,20 @@ Here are some ideas to get you started:
 
 🤖 专注于 **人工智能与机器学习** 领域，热衷于通过技术创新改变世界。
 
+🧬 探索 **AI+生物信息学** 交叉领域，致力于将智能算法应用于生物医学研究。
+
 🚀 立志成为新一代AI开发者，构建更智能、更人性化的未来。
 
-**"Mathematics is the language of nature, and optimization is the key to intelligence."**
+**"Mathematics is the language of nature, optimization is the key to intelligence, and AI+Bio is the future of scientific discovery."**
 
-- 🔭 I'm currently working on **Large Language Models & Optimization Algorithms**
-- 🌱 I'm currently learning **Numerical Analysis, Convex Optimization & Deep Learning Theory**
-- 👯 I'm looking to collaborate on **AI/ML & Mathematical Computing Projects**
-- 🤔 I'm looking for help with **Advanced Optimization Methods & Scientific Computing**
-- 💬 Ask me about **Mathematics, Optimization, PyTorch, and AI Research**
+- 🔭 I'm currently working on **Large Language Models, Optimization Algorithms & AI for Biology**
+- 🌱 I'm currently learning **Numerical Analysis, Convex Optimization, Deep Learning Theory & Bioinformatics**
+- 👯 I'm looking to collaborate on **AI/ML, Mathematical Computing & Computational Biology Projects**
+- 🤔 I'm looking for help with **Advanced Optimization Methods, Scientific Computing & Biological Data Analysis**
+- 💬 Ask me about **Mathematics, Optimization, PyTorch, AI Research & Bioinformatics**
 - 📫 How to reach me: **GitHub @yunyunfanfan**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **Math enthusiast who believes optimization is the soul of AI! 🔢🎆**
+- ⚡ Fun fact: **Math enthusiast who believes optimization is the soul of AI and AI+Bio will revolutionize medicine! 🔢🧬🎆**
 
 </td>
 <td>
@@ -137,12 +139,12 @@ Here are some ideas to get you started:
 ![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<!-- Tools & Platforms -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<!-- Agent Development Tools & Platforms -->
+![AutoGen](https://img.shields.io/badge/AutoGen-智能体框架-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-工作流编排-00D4AA?style=for-the-badge&logo=graphql&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-多智能体协作-FF6B35?style=for-the-badge&logo=robot&logoColor=white)
+![RAGFlow](https://img.shields.io/badge/RAGFlow-知识检索-4A90E2?style=for-the-badge&logo=search&logoColor=white)
+![AgentScope](https://img.shields.io/badge/AgentScope-智能体平台-8B5CF6?style=for-the-badge&logo=scope&logoColor=white)
 
 <!-- Cloud & DevOps -->
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
