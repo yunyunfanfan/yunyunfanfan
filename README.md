@@ -12,17 +12,16 @@
 
 
 <!-- 个人简介-->
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌍+Hello+World!+I'm+yunyunfanfan;🌴+Currently+on+vacation+but+always+coding!;🎓+Lanzhou+University+Student;🔥+We+are+the+best!;🚀+Building+amazing+projects+in+2025;&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24&pause=1000" /></div>
-<h3 align="center">🌴 A passionate developer from Lanzhou University | 💫 Always learning, always growing</h3>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌍+Hello+World!+I'm+yunyunfanfan;🌴+Class+of+2025+Graduate!;🎓+Lanzhou+University+Alumni;🤖+AI+%26+Machine+Learning+Enthusiast;🚀+Building+the+future+with+code+in+2025!;🎆+Ready+for+new+challenges!;&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24&pause=1000" /></div>
+<h3 align="center">🎆 2025 Graduate | 🤖 AI & ML Specialist | 💫 Innovation through Code</h3>
 
 <br><br>
-<!-- Star 2025-->
-<div align="center"> <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star.png?raw=true">
+<!-- GitHub Stats Display -->
+<div align="center">
 
-<!-- 数据展示-主题&theme=radical-->
-<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_left.png?raw=true" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunyunfanfan&theme=radical&hide_border=true" />
-&emsp;<img width="150" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/chibang_right.png?raw=true" />
+
+</div>
 
 <!-- 展示总贡献量，输出图片颜色不一样-->
 <!-- <div align="center">
@@ -33,8 +32,9 @@
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://github.com/yunyunfanfan"><img src="https://img.shields.io/badge/GitHub-个人主页-181717?style=flat-square&logo=github" /></a>&emsp;
-    <a href="https://github.com/yunyunfanfan?tab=repositories"><img src="https://img.shields.io/badge/Projects-项目-blue?style=flat-square&logo=github" /></a>&emsp;
+    <a href="https://github.com/yunyunfanfan?tab=repositories"><img src="https://img.shields.io/badge/Projects-AI项目-blue?style=flat-square&logo=github" /></a>&emsp;
     <a href="https://github.com/yunyunfanfan?tab=stars"><img src="https://img.shields.io/badge/Stars-收藏-yellow?style=flat-square&logo=github" /></a>&emsp;
+    <img src="https://img.shields.io/badge/2025-应届毕业生-green?style=flat-square&logo=graduation-cap" />&emsp;
     <a href="mailto:yunyunfanfan@github.com"><img src="https://img.shields.io/badge/Contact-联系我-red?style=flat-square&logo=gmail" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=yunyunfanfan&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
@@ -65,20 +65,22 @@ Here are some ideas to get you started:
 
 嗨，你好，我是 **Yunjian Zhang (yunyunfanfan)**！
 
-热爱编程、学习、创新，来自兰州大学的开发者。
+🎆 **2025年应届毕业生** - 兰州大学计算机科学与技术专业
 
-我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。
+🤖 专注于 **人工智能与机器学习** 领域，热衷于通过技术创新改变世界。
 
-**"We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility."**
+🚀 立志成为新一代AI开发者，构建更智能、更人性化的未来。
 
-- 🔭 I'm currently working on **AI and algorithm projects**
-- 🌱 I'm currently learning **advanced machine learning techniques**
-- 👯 I'm looking to collaborate on **open source projects**
-- 🤔 I'm looking for help with **distributed systems**
-- 💬 Ask me about **Python, algorithms, and data structures**
+**"Code is the language of the future, and AI is the poetry written in it."**
+
+- 🔭 I'm currently working on **Large Language Models & AI Applications**
+- 🌱 I'm currently learning **Transformer Architecture & Neural Networks**
+- 👯 I'm looking to collaborate on **AI/ML Open Source Projects**
+- 🤔 I'm looking for help with **MLOps and Model Deployment**
+- 💬 Ask me about **Python, PyTorch, TensorFlow, and AI Ethics**
 - 📫 How to reach me: **GitHub @yunyunfanfan**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **Currently on vacation 🌴 but always coding!**
+- ⚡ Fun fact: **2025 Graduate ready to innovate! 🎆**
 
 </td>
 <td>
@@ -117,9 +119,11 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <!-- AI & ML -->
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <!-- Tools & Platforms -->
@@ -129,24 +133,23 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+<!-- Cloud & DevOps -->
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
 </div>
 
- 
-</div>
-
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<!-- GitHub Activity Visualization -->
 <div align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
 
-## 🏆 GitHub Contributions Snake
-<div align="center">
-  <img src="https://github.com/yunyunfanfan/yunyunfanfan/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
+### 🐍 GitHub Contribution Snake
+
+
+[![GitHub Snake dark](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/salesp07/salesp07#gh-dark-mode-only)
+
+*To generate your own snake: Follow the setup instructions at [platane/snk](https://github.com/Platane/snk)*
 
 </div>
 
@@ -157,53 +160,31 @@ Here are some ideas to get you started:
 </div>
 ---
 
-<div align="center"> <img src="https://metrics.lecoq.io/yunyunfanfan?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
----
-
-## 📊 GitHub Metrics
-
+<!-- GitHub Overview -->
 <div align="center">
 
-| Overview | Languages |
-|:------:|:------:|
-| ![Metrics](https://github.com/yunyunfanfan/yunyunfanfan/blob/main/github-metrics/base.svg) | ![Languages](https://github.com/yunyunfanfan/yunyunfanfan/blob/main/github-metrics/languages.indepth.svg) |
+### 📈 GitHub Overview
 
-| Activity | Follow-up |
-|:------:|:------:|
-| ![Activity](https://github.com/yunyunfanfan/yunyunfanfan/blob/main/github-metrics/activity.svg) | ![Follow-up](https://github.com/yunyunfanfan/yunyunfanfan/blob/main/github-metrics/followup.indepth.svg) |
-
-| Habits | Recent Activity |
-|:------:|:------:|
-| ![Habits](https://github.com/yunyunfanfan/yunyunfanfan/blob/main/github-metrics/habits.charts.svg) | ![Recent](https://github.com/yunyunfanfan/yunyunfanfan/blob/main/github-metrics/recent.svg) |
+<img src="https://github-readme-stats.vercel.app/api?username=yunyunfanfan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
 </div>
 
 ---
 
-### About My Github
+## 📊 GitHub Analytics
+
 <div align="center">
-  <table style="width:100%;">
-    <tr>
-      <!-- 第一个图片 -->
-      <td align="center">
-	  <img height='160' src="https://github-readme-stats.vercel.app/api?username=yunyunfanfan&show_icons=true&theme=tokyonight" align="center" />
-       <!-- <img height='150' weight='100' src="https://github-readme-stats.vercel.app/api?username=yunyunfanfan&hide_title=true&show_icons=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
-      </td>
-      <!-- 第二个图片 -->
-      <td align="center">
-	<img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyunfanfan&hide=html,css,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Batchfile&layout=compact&langs_count=8&theme=tokyonight" />
-        <!-- <img height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyunfanfan&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
-      </td>
-    </tr>
-    <!-- 第三个图片 -->
-    <tr>
-      <td colspan="2" align="center">
-        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=yunyunfanfan&theme=github-compact&hide_border=true&area=true" />
-      </td>
-    </tr>
-  </table>
+
+| GitHub Stats | Most Used Languages |
+|:------:|:------:|
+| <img src="https://github-readme-stats.vercel.app/api?username=yunyunfanfan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyunfanfan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> |
+
+| GitHub Streak | Activity Graph |
+|:------:|:------:|
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunyunfanfan&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=yunyunfanfan&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" /> |
+
 </div>
+
 
 ---
 
@@ -238,16 +219,39 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### 🌟 My Development Philosophy
-*"Code is poetry, and every bug is just a comma in the wrong place."*
+### 🌟 My Development Philosophy 2025
+*"In the age of AI, we don't just write code - we orchestrate intelligence."*
 
-### 🎮 When I'm Not Coding
-- 🌴 Currently on vacation (but still coding!)
-- 📚 Reading tech blogs and research papers
-- 🎸 Listening to music while debugging
-- 🌅 Exploring new technologies and frameworks
+### 🎯 My 2025 Journey
+- 🎓 **Fresh Graduate** - Ready to make an impact in the tech industry
+- 🤖 **AI Enthusiast** - Building the next generation of intelligent applications
+- 📚 **Continuous Learner** - Staying ahead with latest ML research and trends
+- 🌍 **Global Perspective** - Contributing to open source and international projects
+- 🚀 **Future Builder** - Shaping tomorrow's technology landscape
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+💻✨ *Happy Coding!* ✨💻
+
+</div>
+
+---
+
+## 🎯 2025 Goals & Milestones
+
+<div align="center">
+
+### 🚀 Current Objectives
+- 🎓 **Graduate with Honors** - Complete my Computer Science degree
+- 💼 **Land First AI Role** - Join a forward-thinking tech company
+- 🔬 **Research Contribution** - Publish ML/AI research or insights
+- 🌐 **Open Source Impact** - Contribute to major AI/ML projects
+- 📚 **Continuous Learning** - Master latest AI frameworks and techniques
+
+### 🏆 2025 Achievements Unlocked
+- ✅ **Advanced ML Coursework** - Completed with distinction
+- ✅ **AI Project Portfolio** - Built diverse ML applications
+- ✅ **Technical Writing** - Shared knowledge through blogs/articles
+- ✅ **Community Engagement** - Active in AI/ML communities
+- ✅ **Industry Readiness** - Prepared for professional challenges
 
 </div>
 
@@ -267,7 +271,32 @@ Here are some ideas to get you started:
 
 </div>
 
-<!-- https://github.com/kyechan99/capsule-render -->
+---
+
+## 🛠️ Setup Instructions
+
+<details>
+<summary>📝 How to make all images work in your README</summary>
+
+### For Snake Animation:
+1. Create a repository named `yunyunfanfan` (same as your username)
+2. Follow [this guide](https://github.com/Platane/snk) to set up GitHub Actions
+3. The snake will automatically update with your contributions
+
+### For GitHub Metrics:
+1. Visit [lowlighter/metrics](https://github.com/lowlighter/metrics)
+2. Follow the setup instructions to generate personal metrics
+3. Replace the placeholder metrics images with your generated ones
+
+### All GitHub Stats services are working:
+- GitHub Readme Stats ✅
+- GitHub Streak Stats ✅  
+- GitHub Profile Trophy ✅
+- GitHub Activity Graph ✅
+
+</details>
+
+<!-- Footer Wave -->
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=50&fontAlign=50&fontAlignY=60&desc=🌴%20yunyunfanfan%20|%20Happy%20Coding!&descAlign=50&descSize=20&descAlignY=75&animation=twinkling">
 </p>
