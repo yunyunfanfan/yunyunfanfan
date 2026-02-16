@@ -102,7 +102,6 @@ Hi, I’m **Yunjian Zhang (yunyunfanfan)**!
 
 <!-- Programming Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<!-- AI & ML -->
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
@@ -142,20 +141,6 @@ Hi, I’m **Yunjian Zhang (yunyunfanfan)**!
 </div>
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-| GitHub Stats | Most Used Languages |
-|:------:|:------:|
-| <img src="https://github-readme-stats.vercel.app/api?username=yunyunfanfan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyunfanfan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> |
-
-| GitHub Streak | Activity Graph |
-|:------:|:------:|
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunyunfanfan&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=yunyunfanfan&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" /> |
-
-</div>
 
 ## 🎯 Fun Zone
 
