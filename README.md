@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ### 🤺 Profile
 
-Hi, I’m **Yunjian Zhang (yunyunfanfan)**!
+Hi, I’m yunyunfanfan !
 
 🎆 **2026 Sophomore Student** – Computer Science and Technology, Lanzhou University  
 
