@@ -106,21 +106,9 @@ Hi, I’m **Yunjian Zhang (yunyunfanfan)**!
 
 </div>
 
-<!-- GitHub Activity Visualization -->
-<div align="center">
-
-### 🐍 GitHub Contribution Snake
-
-
-[![GitHub Snake dark](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/salesp07/salesp07#gh-dark-mode-only)
-
-*To generate your own snake: Follow the setup instructions at [platane/snk](https://github.com/Platane/snk)*
-
-</div>
 
 
 
-### 📐 Core Mathematical Areas
 ### 🧬 Core Research Areas
 
 | 🤖 Generative AI | 🧹 Machine Unlearning | 🔬 AI for Bio |
