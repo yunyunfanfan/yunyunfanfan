@@ -1,3 +1,4 @@
+
 <!--
  * @Author: yunyunfanfan
  * @Date: 2025-01-16
@@ -8,14 +9,13 @@
  * 
  * Copyright (c) 2025 by yunyunfanfan, All Rights Reserved. 
 -->
-<h1 align="center">Hi 👋, I'm Yunjian Zhang (🌴 yunyunfanfan) 👨‍💻</h1>
+<h1 align="center">Hi 👋, I'm yunyunfanfan 👨‍💻</h1>
 
 
 <!-- 个人简介-->
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌍+Hello+World!+I'm+yunyunfanfan;🔢+Mathematics+%26+Numerical+Analysis+Enthusiast;🔬+NLP+%26+Computer+Vision+Researcher;📐+Optimization+%26+Scientific+Computing;🤖+AI+For+Science+Enthusiast;📝+Writing+about+LLMs+on+Zhihu;🚀+Building+intelligent+systems+in+2025!;&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24&pause=1000" /></div>
-<h3 align="center">🔢 Mathematics & Optimization | 🔬 NLP & CV | 🤖 AI For Science</h3>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌍+Hello+World!+I'm+yunyunfanfan;🤖+AI+For+Science;My+Research+interest+is+GenAI;&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24&pause=1000" /></div>
+<h3 align="center"> AI For Science</h3>
 
-<br><br>
 <!-- GitHub Stats Display -->
 <div align="center">
 
@@ -31,12 +31,12 @@
 <div align="center">
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://github.com/yunyunfanfan"><img src="https://img.shields.io/badge/🤖-NPL&CV-181717?style=flat-square&logo=github" /></a>&emsp;
+    <a href="https://github.com/yunyunfanfan"><img src="https://img.shields.io/badge/🤖-GenAI-181717?style=flat-square&logo=github" /></a>&emsp;
     <a href="https://github.com/yunyunfanfan?tab=repositories"><img src="https://img.shields.io/badge/🧬-AI+Bio-blue?style=flat-square&logo=github" /></a>&emsp;
-    <a href="https://github.com/yunyunfanfan?tab=stars"><img src="https://img.shields.io/badge/🔬-多智能体系统-purple?style=flat-square&logo=github" /></a>&emsp;
-    <img src="https://img.shields.io/badge/🧠-大语言模型-green?style=flat-square&logo=graduation-cap" />&emsp;
-    <a href="https://www.zhihu.com/people/yunyunfanfan"><img src="https://img.shields.io/badge/💊-数学讨论班-0084FF?style=flat-square&logo=zhihu&logoColor=white" /></a>&emsp;
-    <a href="mailto:yunyunfanfan@github.com"><img src="https://img.shields.io/badge/Contact-联系我-red?style=flat-square&logo=gmail" /></a>&emsp;
+    <a href="https://github.com/yunyunfanfan?tab=stars"><img src="https://img.shields.io/badge/🔬-Unlearning-purple?style=flat-square&logo=github" /></a>&emsp;
+    <img src="https://img.shields.io/badge/🧠-ESM3-green?style=flat-square&logo=graduation-cap" />&emsp;
+    <a href="https://www.zhihu.com/people/yunyunfanfan"><img src="https://img.shields.io/badge/💊-Flowmatching-0084FF?style=flat-square&logo=zhihu&logoColor=white" /></a>&emsp;
+    <a href="mailto:yunyunfanfan@github.com"><img src="https://img.shields.io/badge/Contact-me-red?style=flat-square&logo=gmail" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=yunyunfanfan&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ## 🙋 About Me
 
 <table>
@@ -64,28 +63,26 @@ Here are some ideas to get you started:
 
 ### 🤺 Profile
 
-嗨，你好，我是 **Yunjian Zhang (yunyunfanfan)**！
+Hi, I’m **Yunjian Zhang (yunyunfanfan)**!
 
-🎆 **2025年大一学生** - 兰州大学计算机科学与技术专业
+🎆 **2026 Sophomore Student** – Computer Science and Technology, Lanzhou University  
 
-🔢 对 **数学、数值分析与优化理论** 充满热情，深入研究算法背后的数学原理。
+🤖 Focused on **Artificial Intelligence and Machine Learning**, enthusiastic about transforming the world through technological innovation.  
 
-🤖 专注于 **人工智能与机器学习** 领域，热衷于通过技术创新改变世界。
+🧬 Exploring the intersection of **AI + Bio + Vertical Large Models**, aiming to apply intelligent algorithms to biomedical research.  
 
-🧬 探索 **AI+生物信息学** 交叉领域，致力于将智能算法应用于生物医学研究。
+🚀 Aspiring to become a next-generation AI developer, building a smarter and more human-centered future.  
 
-🚀 立志成为新一代AI开发者，构建更智能、更人性化的未来。
+**"Optimization is the key to intelligence, and AI+Bio is the future of scientific discovery."**
 
-**"Mathematics is the language of nature, optimization is the key to intelligence, and AI+Bio is the future of scientific discovery."**
-
-- 🔭 I'm currently working on **Large Language Models, Optimization Algorithms & AI for Biology**
-- 🌱 I'm currently learning **Numerical Analysis, Convex Optimization, Deep Learning Theory & Bioinformatics**
-- 👯 I'm looking to collaborate on **AI/ML, Mathematical Computing & Computational Biology Projects**
+- 🔭 I'm currently working on **Machine Unlearning & Generative AI Applications in Biology**
+- 🌱 I'm currently learning **Deep Learning Theory & Bioinformatics**
+- 👯 I'm looking to collaborate on **AI/ML & Computational Biology Projects**
 - 🤔 I'm looking for help with **Advanced Optimization Methods, Scientific Computing & Biological Data Analysis**
-- 💬 Ask me about **Mathematics, Optimization, PyTorch, AI Research & Bioinformatics**
+- 💬 Ask me about **PyTorch, AI Research & Bioinformatics**
 - 📫 How to reach me: **GitHub @yunyunfanfan**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **Math enthusiast who believes optimization is the soul of AI and AI+Bio will revolutionize medicine! 🔢🧬🎆**
+- ⚡ Fun fact: **I believe AI+Bio will revolutionize medicine! 🧬🎆**
 
 </td>
 <td>
@@ -98,59 +95,15 @@ Here are some ideas to get you started:
 
 
 
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 <!-- Programming Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-<!-- Frontend -->
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-<!-- Backend & Databases -->
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<!-- Mathematical & Scientific Computing -->
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolfram-mathematica&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
 <!-- AI & ML -->
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
-![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-<!-- Agent Development Tools & Platforms -->
-![AutoGen](https://img.shields.io/badge/AutoGen-智能体框架-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-工作流编排-00D4AA?style=for-the-badge&logo=graphql&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-多智能体协作-FF6B35?style=for-the-badge&logo=robot&logoColor=white)
-![RAGFlow](https://img.shields.io/badge/RAGFlow-知识检索-4A90E2?style=for-the-badge&logo=search&logoColor=white)
-![AgentScope](https://img.shields.io/badge/AgentScope-智能体平台-8B5CF6?style=for-the-badge&logo=scope&logoColor=white)
-
-<!-- Cloud & DevOps -->
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 </div>
 
@@ -166,71 +119,25 @@ Here are some ideas to get you started:
 
 </div>
 
----
-<!-- GitHub 奖杯🏆 -->
-<div align="center">
-	<img  src="https://github-profile-trophy.vercel.app/?username=yunyunfanfan&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
-</div>
----
 
-<!-- GitHub Overview -->
-<div align="center">
-
-### 📈 GitHub Overview
-
-<img src="https://github-readme-stats.vercel.app/api?username=yunyunfanfan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-
-</div>
-
----
-
-## 🔢 Mathematical Research Interests & 知乎文章
-
-<div align="center">
 
 ### 📐 Core Mathematical Areas
+### 🧬 Core Research Areas
 
-| 🧮 Numerical Analysis | 🎯 Optimization Theory | 🔬 Scientific Computing |
-|:----------------------:|:----------------------:|:-----------------------:|
-| **Finite Difference Methods** | **Convex Optimization** | **Linear Algebra Algorithms** |
-| **Numerical Linear Algebra** | **Non-convex Optimization** | **Monte Carlo Methods** |
-| **ODE/PDE Solvers** | **Gradient Descent Variants** | **Parallel Computing** |
-| **Interpolation & Approximation** | **Constrained Optimization** | **High-Performance Computing** |
+| 🤖 Generative AI | 🧹 Machine Unlearning | 🔬 AI for Bio |
+|:----------------:|:---------------------:|:-------------:|
+| **Diffusion & Flow Models** | **Data Deletion & Model Editing** | **Computational Biology** |
+| **Large Language Models** | **Privacy-Preserving Learning** | **Bioinformatics Analysis** |
+| **Multimodal Generation** | **Knowledge Erasure Methods** | **Biomedical Image Generation** |
+| **Vertical Domain LLMs** | **Model Robustness & Safety** | **AI-Driven Drug & Protein Research** |
 
-### 📚 知乎专栏 
-
-<table>
-<tr>
-<td align="center">
-<b>🧠 我的求学之旅</b><br/>
-<a href="https://zhuanlan.zhihu.com/p/1921283479628415217">📖 持续性摆烂，间歇性沉淀</a><br/>
-
-</td>
-<td align="center">
-<b>🔍 微积分与高数</b><br/>
-<a href="https://www.zhihu.com/column/c_1844771489099960321">📝 高数讨论班讲义</a><br/>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-<b>📊 深入浅出数学系列</b><br/>
-<a href="https://www.zhihu.com/people/yunyunfanfan">🧮 那些年我们做过的好题</a><br/>
-
-</td>
-<td align="center">
-<b>🤖 我的游记</b><br/>
-<a href="https://www.zhihu.com/people/yunyunfanfan">🎓 读万卷书，行万里路</a><br/>
-
-</td>
-</tr>
-</table>
 
 ### 🎯 Research Focus
-- 🔍 **Large Language Models Optimization** - Training efficiency and convergence analysis
-- 📐 **Numerical Methods for AI** - Advanced algorithms for model training
-- 🧮 **Scientific Computing** - High-performance mathematical software development
-- 📊 **Data Analysis & Visualization** - Mathematical insights from large datasets
+- 🔍 **Generative AI for Biology** – 3D biomedical image generation, protein & molecular modeling  
+- 🧹 **Machine Unlearning** – Efficient data removal, controllable knowledge editing, and model safety  
+- 🤖 **Vertical Large Models** – Domain-specific LLMs for biomedical and scientific applications  
+- 🔬 **AI + Bio Integration** – Intelligent algorithms for healthcare, life science research, and data-driven discovery
+
 
 </div>
 
@@ -250,77 +157,46 @@ Here are some ideas to get you started:
 
 </div>
 
-
----
-
-
-<!-- GitHub 数据统计 -->
-<!--
-<div align="left">
-<img align="center" height="117px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yunyunfanfan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<!-- <img align="center" height="100px" src="https://github-readme-stats.vercel.app/api?username=yunyunfanfan&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
-
-<!--
-<img align="center" height="117px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yunyunfanfan&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
-</div> -->
-
-<!-- <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=yunyunfanfan&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div> -->
-
-
-<!-- <div align="left">
-  <img height='160' src="https://github-readme-stats.vercel.app/api?username=yunyunfanfan&show_icons=true&theme=tokyonight" align="center" />
-  <img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyunfanfan&hide=html,css,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Batchfile&layout=compact&langs_count=8&theme=tokyonight" align="center" />
-</div>  
-<div align="center">
-    <img   width="400" height="180" src="https://github-readme-stats.vercel.app/api?username=yunyunfanfan&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-    <img width="350" height="180" height='120' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyunfanfan&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div> -->
-
-
-<!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=yunyunfanfan&theme=xcode" /> </div> -->
-<!-- <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunyunfanfan" /> </div>  -->
-
 ## 🎯 Fun Zone
 
 <div align="center">
 
-### 🌟 My Development Philosophy 2025
-*"In the age of AI, we don't just write code - we orchestrate intelligence."*
+### 🌟 My Development Philosophy 2026
+*"In the age of AI, we don’t just build models — we design intelligent systems that learn, adapt, and evolve with humanity."*
 
-### 🎯 My 2025 Journey
-- 🎓 **Fresh Graduate** - Ready to make an impact in the tech industry
-- 🤖 **AI Enthusiast** - Building the next generation of intelligent applications
-- 📚 **Continuous Learner** - Staying ahead with latest ML research and trends
-- 🌍 **Global Perspective** - Contributing to open source and international projects
-- 🚀 **Future Builder** - Shaping tomorrow's technology landscape
+### 🎯 My 2026 Journey
+- 🎓 **Sophomore Student** – Exploring deeper frontiers of AI and Bio-intelligence  
+- 🧬 **AI + Bio Explorer** – Applying Generative AI and Unlearning to real biomedical problems  
+- 📚 **Continuous Researcher** – Following cutting-edge ML, GenAI, and LLM advancements  
+- 🌍 **Open-Source Contributor** – Collaborating on global AI and scientific computing projects  
+- 🚀 **Future Innovator** – Shaping vertical large models and next-generation intelligent systems  
+
+</div>
+<div align="center">
 
 💻✨ *Happy Coding!* ✨💻
 
 </div>
 
 ---
-
-## 🎯 2025 Goals & Milestones
+## 🎯 Milestones & Goals
 
 <div align="center">
 
-### 🚀 Current Objectives
-- 🎓 **Graduate with Honors** - Complete my Computer Science degree
-- 💼 **Land First AI Role** - Join a forward-thinking tech company
-- 🔬 **Research Contribution** - Publish ML/AI research or insights
-- 🌐 **Open Source Impact** - Contribute to major AI/ML projects
-- 📚 **Continuous Learning** - Master latest AI frameworks and techniques
+### 🏆 2025 Achievements
+- ✅ **SCI Q1 Publication** – First-author paper on **Machine Unlearning + Bioinformatics**  
+- ✅ **Research Breakthrough** – Established a solid direction in **Unlearning & Generative AI for Biology**  
+- ✅ **Academic Recognition** – Gained early research visibility in AI+Bio interdisciplinary studies  
+- ✅ **Open Research Contribution** – Participated in collaborative AI/Bio projects and knowledge sharing  
 
-### 🏆 2025 Achievements Unlocked
-- ✅ **Advanced ML Coursework** - Completed with distinction
-- ✅ **AI Project Portfolio** - Built diverse ML applications
-- ✅ **Technical Writing** - Shared knowledge through blogs/articles
-- ✅ **Community Engagement** - Active in AI/ML communities
-- ✅ **Industry Readiness** - Prepared for professional challenges
+### 🚀 2026 Objectives
+- 🖥️ **ASC High-Performance Computing Competition** – Aim to win a national or international award  
+- 📄 **Top-Tier First-Author Publications** – Target **NeurIPS / CVPR / AAAI** with **Generative Models + Bio** research  
+- 🤖 **Advanced Generative AI Systems** – Build controllable biomedical generation frameworks  
+- 🌍 **Global Research Collaboration** – Contribute to international AI + Bio open-source and academic communities  
 
 </div>
 
----
 
 
 
